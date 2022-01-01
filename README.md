@@ -31,6 +31,7 @@ git --version
 ***Ajouter des modifications :
 git add .
 git status
-git commit -m "third commit"
+git commit -a -m "third commit"
+git push -u origine main
 
 
